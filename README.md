@@ -16,3 +16,9 @@ A web-based system to manage student attendance digitally, replacing manual regi
 - **Database:** MySQL
 
 ## 📂 Project Structure
+project-folder/
+├── index.html
+├── attendance.js
+├── style.css
+├── backend/
+└── database/
